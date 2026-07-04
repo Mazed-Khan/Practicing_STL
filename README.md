@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧩 Practicing_Stl
+# 🧩 Practicing_STL
 
 ### A hands-on playground for mastering C++ STL Containers
 
